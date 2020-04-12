@@ -1,5 +1,5 @@
 # Lumen - API
- this is simple REST API made for learning perpose 
+ this is simple REST API 
  
  #API ROUTES
  ---Post crud routes--
